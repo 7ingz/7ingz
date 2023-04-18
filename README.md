@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ScriptSwap**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Airtifical Intellegance**
 
 - 📫 How to reach me **7ingz♕#3806**
 
