@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm 7ingz</h1>
-<h3 align="center">I am a freelance **python** developer mainly working on automation tools and **bots**!</h3>
+<h3 align="center">I am a freelance python developer mainly working on automation tools and bots!</h3>
 
-- 🔭 I’m currently working on **Clownery**
+- 🔭 I’m currently working on **C.Ast**
 
-- 🌱 I’m currently learning **Webscraping**
+- 🌱 I’m currently learning **Time managment**
 
 - 📫 Im on discord **@7ingz**
 
